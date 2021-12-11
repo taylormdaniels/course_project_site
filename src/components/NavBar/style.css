@@ -1,0 +1,32 @@
+h1, h2, p, ul, li {
+	font-family: sans-serif;
+  }
+.navbar {
+	display: flex;
+	align-self: center;
+	margin-left: 15%;
+	margin-right: 15%;
+	background-color: rgb(241, 22, 84);
+	border-radius: 25px;
+}
+ul.navbar li {
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+  }
+
+ul.navbar li a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 20px;
+	display: inline-block;
+	text-align: center;
+  }
+  h1 {
+	  text-align: center;
+	  font-weight: bolder;
+	  font-size: 50px;
+	  color: #0099FF;
+  }
+  
